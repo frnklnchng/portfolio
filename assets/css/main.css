@@ -3353,7 +3353,8 @@ input, select, textarea {
 		-webkit-align-items: center;
 		-ms-align-items: center;
 		align-items: center;
-		background-image: url("../../images/banner.jpg");
+		/* background-image: url("../../images/banner4.jpg"); */
+		background-image: url("../../images/banner2.png");
 		display: -moz-flex;
 		display: -webkit-flex;
 		display: -ms-flex;
@@ -3772,7 +3773,7 @@ input, select, textarea {
 		-ms-justify-content: center;
 		justify-content: center;
 		pointer-events: none;
-		background: rgb(33, 33, 36);
+		background: rgb(33, 33, 36, 0.8);
 		box-shadow: none;
 		height: 100%;
 		left: 0;
