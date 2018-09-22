@@ -1,0 +1,11 @@
+ul.icons {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+ul.copyright {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
